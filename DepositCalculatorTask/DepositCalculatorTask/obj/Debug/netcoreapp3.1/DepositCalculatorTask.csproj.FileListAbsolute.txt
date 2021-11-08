@@ -1,0 +1,16 @@
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.exe
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.deps.json
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.runtimeconfig.json
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.runtimeconfig.dev.json
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.dll
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\bin\Debug\netcoreapp3.1\DepositCalculatorTask.pdb
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.csproj.AssemblyReference.cache
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.Form1.resources
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.csproj.GenerateResource.cache
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.AssemblyInfoInputs.cache
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.AssemblyInfo.cs
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.dll
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.pdb
+C:\Users\Anna_Onofriichuk\source\repos\DepositCalculatorTask\DepositCalculatorTask\obj\Debug\netcoreapp3.1\DepositCalculatorTask.genruntimeconfig.cache
